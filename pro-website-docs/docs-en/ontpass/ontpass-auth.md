@@ -6,7 +6,7 @@ This article will guide Requester to access the Ontology network, and to use the
 
 * Requester: Any institution or service provider that requires authentication for people, object or event. Requester is the demand side of authentication service in the Ontology Trust Eco-system.
 * ONTPass: Based on ONTID and Ontology Trust Ecosystem, it is an open, decentralized authentication platform that provides rich authentication services for people, asset, objects, and things. ONTPass synergizes users and requesters for data exchange and all the data is encrypted protect User's private data.
-* TrustAnchor: Trust Anchor refers to the partner that provides authentication verification services on the Ontology Trust Ecosystem. A trust anchor can be a government agency, an university, a bank, a third-party certification service organization (such as CA institutions), a biometric technology company and etc.
+* TrustAnchor: Trust Anchor refers to the partner that provides authentication verification services on the Ontology Trust Ecosystem. A trust anchor can be a government agency, university, bank, third-party certification service organization (such as CA institutions), biometric technology company, etc.
 
 
 
